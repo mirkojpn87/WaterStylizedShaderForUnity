@@ -35,7 +35,3 @@ Inside the Inspector, you now have various properties that you can tweak:
 ### Applying the Material
 
 Finally, to apply the material to your game object, drag and drop the material onto the game object or assign it in the Mesh Renderer of the object.
-
-## License
-
-This software is released under the terms of [INSERT_LICENSE_HERE].
